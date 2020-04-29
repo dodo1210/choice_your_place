@@ -1,0 +1,42 @@
+2018 - https://www.e-unwto.org/doi/pdf/10.18111/9789284421152
+Populações -> https://www.geonames.org/
+==============================================
+France = Paris, Lyon, Nice, Marseille, Bordeaux, Toulouse, Strasbourg, Montpellier, LILLE, Nantes
+
+Spain = Madrid, Barcelona, Sevilla, Valencia, Malaga, Zaragoza, Bilbao, Murcia, Palma, Las Palmas de Gran Canaria
+
+United States of America = New York City, Los Angeles, Houston, Philadelphia, Phoenix, San Antonio, Chicago, San Diego, Dallas, San Jose
+
+China = Pequim, Xi'an, Shanghai, Guilin, Chengdu, Shenzhen, Wuhan, Dongguan, Gangzhou, Tiajin
+
+Italy = Roma, Milan, Naples, Turim, Palermo, Genoa, Bologna, Florence, Catania, Bari
+
+Turkey = Istanbul, Ankara, Izmir, Bursa, Adana, Gaziantep, Konya, Çankaya, Antalya, Bağcılar
+
+Mexico = Mexico City, Puebla City, Guadalajara, León, Ciudad Juárez, Tijuana, Iztapalapa, Ecatepec, Gustavo Adolfo Madero, Zapopan
+
+Germany = Berlin, Hamburg, Munich, Cologne, Frankfurt am Main, Essen, Stuttgart, Dortmund, Düsseldorf, Bremen
+
+United Kingdom = London, Birmingham, Liverpool, Nottingham, Sheffield, Bristol, Glasgow, Leicester, Edinburgh, Leeds
+
+Thailand = Bangkok, Samut Prakan, Nonthaburi, Udon Thani, Chon Buri, Nakhon Ratchasima, Chiang Mai, Hat Yai, Pak Kret, Si Racha
+
+Japan = Tokyo, Yokohama, Osaka, Nagoya,	Sapporo, Kobe, Kyoto, Fukuoka, Kawasaki, Saitama
+
+Hong Kong = Cidade única
+
+Austria = Vienna, Graz, Linz, Salzburg, Innsbruck, Klagenfurt, Villac, Dornbirn, Wiener Neustadt, Steyr
+
+Greece = Athens, Thessaloniki, Pátrai, Piraeus, Larissa, Peristeri, Heraklion, Kallith, Acharnes, Kalamaria
+
+Malaysia = Kota Bharu, Kuala Lumpur, Klang, Kampung Baru Suba, Johor Bahru, Ipoh, Kuching, Petaling Jaya, Shah Alam, Kota Kinabalu
+
+Russian = Moscow, St Petersburg, Novosibirsk, Ekaterinburg, Nizhny Novgorod, Samara, Omsk, Kazan’, Rostov-on-Don, Chelyabinsk
+
+Portugal = Lisbon, Porto, Amadora, Braga, Setúbal, Coimbra, Queluz, Funchal, Cacém, Vila Nova de Gaia
+
+Canada = Toronto, Montreal, Calgary, Ottawa, Edmonton, Mississauga, North York, Winnipeg, Vancouver, Scarboroug
+
+Polonia = Warsaw, Łódź, Krakow, Wrocław, Poznan, Gdańsk, Szczecin, Bydgoszcz, Lublin, Katowice 
+
+Holanda = Amsterdam, Rotterdam, The Hague, Utrecht, Eindhoven, Tilburg, Groningen, Almere Stad, Breda, Nijmegen
