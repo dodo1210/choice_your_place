@@ -173,4 +173,3 @@ for i in range(get):
 print(select_word)
 for i in range(get):
   print(list_city[i])
-
