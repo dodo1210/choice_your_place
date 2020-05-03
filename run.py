@@ -145,9 +145,9 @@ count_all = []
 for i in range(get):
   elimination = []
   words = []
-  for l in count(list_elimination[i],60)['Palavra']:
+  for l in count(list_elimination[i],70)['Palavra']:
     elimination.append(str(l))
-  for l in count(list_words[i],60)['Palavra']:
+  for l in count(list_words[i],70)['Palavra']:
     words.append(str(l))
   count_elimination.append(elimination)
   count_all.append(words)
@@ -160,6 +160,17 @@ for i in range(get):
       words.append(c)
   select_word.append(words)
 
+for i in range(get):
+  count = 0
+  for d in data['Description']:
+    for s in select_word[i]:
+      if (s in str(d)) and (str(data['City'][count]) in str(list_city[i])):
+        print(s,data['City'][count])
+    count+=1
+  print("========")
+        
+
 print(select_word)
 for i in range(get):
   print(list_city[i])
+
