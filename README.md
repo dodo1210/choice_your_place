@@ -22,7 +22,7 @@ For do this project got caught the 10 cities in 20 coutries most biggest of worl
 </ul>
   
 <h3>Texto das cidades</h3>
-"Paris https://www.lonelyplanet.com/france/paris"
+<p>Paris https://www.lonelyplanet.com/france/paris"</p>
 <p>Lyon https://www.lonelyplanet.com/france/burgundy-and-the-rhone/lyon"</p>
 <p>Nice https://www.lonelyplanet.com/france/nice"</p>
 <p>Marseille https://www.lonelyplanet.com/france/provence/marseille"</p>
